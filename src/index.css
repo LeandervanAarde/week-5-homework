@@ -1,0 +1,12 @@
+.single-container{
+    height: auto;
+    background-color: rgb(229, 226, 226);
+    border-radius: 10px;
+    padding: 1%;
+
+}
+
+
+.circle{
+    padding-left: 25% !important;
+}
